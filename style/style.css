@@ -1,0 +1,19 @@
+body{
+    background-color:   rgba(12, 234, 234, 0.789) ;
+}
+.brand_name{
+    text-decoration: none;
+    font-style: oblique;
+}
+.name{
+    width: 300;
+    height: 200;
+}
+.result{
+    background-color:white;
+    width: 170px;
+    text-align: center;
+}
+.info{
+    text-decoration: none;
+}
