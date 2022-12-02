@@ -5,6 +5,7 @@
 body{
     background-color:   rgba(46, 36, 244, 0.411) ;
     text-align: center;
+    overflow-y: hidden;
 }
 .brand_name{
     text-decoration: none;
