@@ -23,6 +23,7 @@ function func() {
     default:
       result = 'Amalni tanlang';
   }
-  
   document.getElementById("result").innerHTML = result;
 }
+  btn.addEventListener("click", () => 
+  func() )  ;
